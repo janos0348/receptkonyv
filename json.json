@@ -1,0 +1,24 @@
+{
+    "recept": [
+    {
+        "nev" : "Articsóka leves",
+        "elkIdo"  : "10 perc",
+        "kep"  : "kepek/artileves.jpg",
+        "leiras": "igy kel elkésziteni az articsokat",
+        "hozzávalók" : ""
+},
+    {
+        "nev" : "Pörkölt",
+        "elkIdo"  : "35 perc",
+        "kep"  : "kepek/porkolt.jpg",
+        "leiras": "igy kel elkésziteni az porkoltöt",
+        "hozzávalók" : ""
+},
+    {
+        "nev" : "Somlói Galuska",
+        "elkIdo"  : "60 perc",
+        "kep"  : "kepek/somloi.jpg",
+        "leiras": "igy kel elkésziteni az somloit",
+        "hozzávalók" : ""
+}
+    ]}
